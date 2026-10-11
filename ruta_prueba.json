@@ -1,0 +1,51 @@
+{
+  "fecha": "2026-08-27",
+  "ruta": "Ruta 1 - Bejuma",
+  "pedidos": [
+    {
+      "cliente_rif": "J-50025063-0",
+      "productos": [
+        {
+          "numero_articulo": "7598770231081",
+          "cantidad": 6
+        },
+        {
+          "numero_articulo": "7598770102381",
+          "cantidad": 4
+        },
+        {
+          "numero_articulo": "7598770103081",
+          "cantidad": 3
+        },
+        {
+          "numero_articulo": "7598770100158",
+          "cantidad": 2
+        },
+        {
+          "numero_articulo": "7598770100301",
+          "cantidad": 8
+        },
+        {
+          "numero_articulo": "7598770100103",
+          "cantidad": 5
+        },
+        {
+          "numero_articulo": "7598770231081",
+          "cantidad": 1
+        },
+        {
+          "numero_articulo": "7598770102381",
+          "cantidad": 1
+        },
+        {
+          "numero_articulo": "7598770103081",
+          "cantidad": 1
+        },
+        {
+          "numero_articulo": "7598770100158",
+          "cantidad": 1
+        }
+      ]
+    }
+  ]
+}
